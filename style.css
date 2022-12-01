@@ -55,6 +55,9 @@ section {
   padding: 0 0.5rem;
   font-size: 1.8rem;
 }
+.btn a {
+  color: #fff;
+}
 .btn:hover {
   background: var(--color);
 }
